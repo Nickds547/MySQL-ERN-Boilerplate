@@ -1,1 +1,1 @@
-# MySQL-ERN--Boilerplate
+# MySQL + Express + React.js + Node.js Boilerplate
