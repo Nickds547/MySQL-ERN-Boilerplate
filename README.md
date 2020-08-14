@@ -4,7 +4,6 @@
 
 ### Initial Terminal Commands
 ---
-cd ./server
-mkdir config
-touch 
+- cd ./server
+- mkdir config
 --- 
